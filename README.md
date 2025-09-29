@@ -1,1 +1,2 @@
-# Online-Retail-Sales-Analysis-project-
+# Online-Retail-Sales-Analysis-project
+This mini-project is based on the UCI Online Retail dataset, which contains over 500,000 transactions from a UK-based e-commerce store (2010–2011). The analysis includes data cleaning (handling missing values, canceled orders, and invalid entries), sales performance tracking (total revenue, transactions, customers), trend analysis (monthly, weekly, daily revenue), and identifying top performers (products, customers, and countries). The findings are presented using visualizations to highlight business insights such as seasonal demand, high-value customers, and product performance.
